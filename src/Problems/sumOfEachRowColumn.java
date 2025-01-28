@@ -1,3 +1,5 @@
+package Problems;
+
 public class sumOfEachRowColumn {
     public void sumOfEachRow(int[][] arr)
     {

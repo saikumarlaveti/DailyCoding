@@ -1,3 +1,5 @@
+package Problems;
+
 public class SparseMatrix {
     public void findSparseMatrix(int arr[][])
     {

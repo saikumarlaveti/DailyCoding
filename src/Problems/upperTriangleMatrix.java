@@ -1,3 +1,5 @@
+package Problems;
+
 public class upperTriangleMatrix
 {
     public int[][] utMatrix(int arr[][])

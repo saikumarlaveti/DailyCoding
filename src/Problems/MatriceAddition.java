@@ -1,3 +1,5 @@
+package Problems;
+
 public class MatriceAddition {
     public int[][] addition(int a[][], int b[][]) {
         int c[][] = new int[3][3];

@@ -1,3 +1,5 @@
+package Problems;
+
 public class MatrixMul {
 
     public int[][] multiplecation(int a[][], int b[][]) {

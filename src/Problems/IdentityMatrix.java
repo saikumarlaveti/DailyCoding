@@ -1,3 +1,5 @@
+package Problems;
+
 public class IdentityMatrix {
 
     public boolean findIdentityMatrix(int arr[][])

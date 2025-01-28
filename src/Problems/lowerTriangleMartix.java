@@ -1,3 +1,5 @@
+package Problems;
+
 public class lowerTriangleMartix {
 
     public int[][] lowerTriangle(int arr[][]) {

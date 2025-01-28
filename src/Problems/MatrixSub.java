@@ -1,3 +1,5 @@
+package Problems;
+
 public class MatrixSub {
     public int[][] subtraction(int a[][], int b[][]) {
         int res[][] = new int[3][3];

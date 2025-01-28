@@ -1,3 +1,5 @@
+package Problems;
+
 public class EvenOrOdd
 {
     public void EOO(int arr[][])

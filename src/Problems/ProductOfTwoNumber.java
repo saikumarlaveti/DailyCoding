@@ -1,3 +1,5 @@
+package Problems;
+
 class ProductOfTwoNumber
 {
 

@@ -1,3 +1,5 @@
+package Problems;
+
 public class Transpose {
     public  void print(int arr[][])
     {
